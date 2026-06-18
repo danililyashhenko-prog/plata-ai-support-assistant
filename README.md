@@ -1,4 +1,4 @@
-# Plata Bank AI Support Assistant 🚀
+# Plata Bank AI Support Assistant 
 
 A high-performance, production-ready AI-driven customer support assistant microservice specifically simulated for the **Plata Bank** ecosystem. Built using **Python**, **FastAPI**, and **OpenAI API**, this project is designed to handle, analyze, and automatically respond to user inquiries with low latency.
 
